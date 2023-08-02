@@ -1,4 +1,4 @@
-package lowLevelDesign.snakeAndLadder;
+package SnakeandLadder;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -55,7 +55,7 @@ public class Game {
 
         }
 
-        System.out.println("WINNER IS:" + winner.id);
+        System.out.println("WINNER IS : " + winner.id);
     }
 
 

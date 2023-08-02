@@ -1,4 +1,4 @@
-package lowLevelDesign.snakeAndLadder;
+package SnakeandLadder;
 
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -67,4 +67,3 @@ public class Board {
         return cells[boardRow][boardColumn];
     }
 }
-
