@@ -1,5 +1,5 @@
 # lowLevelDesign
-Welcome to the Low-Level Design Playground! 🚀
+Welcome to the lowLevelDesign Playground! 🚀
 
 This repository is dedicated to exploring the intricate world of low-level design in software development. Here, we dive deep into the foundations and inner workings of computer systems, focusing on the nuts and bolts that make programs run efficiently and effectively.
 
