@@ -1,8 +1,8 @@
 package lowLevelDesign;
 
-public class HelloWorld2 {
+public class heyWorld {
 	public static void main(String args[])
 	{
-		System.out.println("Hello world2!!");
+		System.out.println("Hey World!!");
 	}
 }
