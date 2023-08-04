@@ -5,7 +5,6 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Board {
 
     Cell[][] cells;
-
     Board(int boardSize, int numberOfSnakes, int numberOfLadders) {
 
         initializeCells(boardSize);
